@@ -23,7 +23,6 @@ options space=20
 
 tabstave
   notation=true
-  time=4/4
 
-  notes A B C D E F G
+  notes C-D-E/4 #0# | C-D-E-F/4
 :::
