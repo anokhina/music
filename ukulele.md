@@ -17,5 +17,5 @@ notes 1/1 1/2 1/3 1/4
 :::vextab
 tabstave notation=true
 tuning=A/4,E/4,C/4,G/4
-notes (3/1 5/2 3/3 2/4)
+notes (3/1.5/2.3/3.2/4)
 :::
