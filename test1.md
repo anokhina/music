@@ -6,6 +6,6 @@ C D E F G A B c
 
 :::vextab
 tabstave notation=true
-notes C-D-E-F | G-A-A-A
+notes C-D-E-F
 :::
 
