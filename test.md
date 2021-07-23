@@ -18,11 +18,3 @@ tabstave
 :::
 
 
-:::vextab
-options space=20
-
-tabstave
-  notation=true
-
-  notes C-D-E/4 #0# | C-D-E-F/4
-:::
