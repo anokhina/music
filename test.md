@@ -24,7 +24,6 @@ options space=20
 tabstave
   notation=true
   time=4/4
-  tuning=G/4
 
   notes A B C D E F G
 :::
