@@ -16,3 +16,15 @@ tabstave
   notes :8 t12p7/4 s5s3/4 :8 3s:16:5-7/5 :h p5/4
   text :w, |#segno, ,|, :hd, , #tr
 :::
+
+
+:::vextab
+options space=20
+
+tabstave
+  notation=true
+  time=4/4
+  tuning=G/4
+
+  notes A B C D E F G
+:::
